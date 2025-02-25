@@ -1,5 +1,5 @@
-# [viktordesign.github.io](https://corkyscroll.github.io/viktordesign.github.io/)
-This repository contains the source code for [viktordesign.github.io](https://corkyscroll.github.io/viktordesign.github.io/)
+# [viktordesign.github.io](https://corkyscroll.github.io/viktordesign/)
+This repository contains the source code for [viktordesign.github.io](https://corkyscroll.github.io/viktordesign/)
 
 # License
 Source code is licensed under the [MIT License](https://opensource.org/license/mit).
